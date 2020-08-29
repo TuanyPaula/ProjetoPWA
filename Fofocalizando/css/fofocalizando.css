@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat&display=swap');
+* {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1em;
+}
+
+.jumbotron-integrado {
+    background: url('../img/360035-636353893389515697-16x9.jpg');
+    background-size: cover;
+    background-position-y: center;
+}
+
+.negative-top {
+    margin-top: -2em;
+}
+
+.copyright {
+    font-size: 0.7em;
+}
