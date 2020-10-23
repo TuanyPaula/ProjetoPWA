@@ -1,0 +1,1 @@
+{  "name": "fofocalizando",  "short_name": "fofocalizando",  "lang": "pt-BR",  "start_url": "./",  "scope": "./?",  "display": "fullscreen",  "theme_color": "#000000",  "icons": [    {      "src": "https://github.com/TuanyPaula/ProjetoPWA.git",      "sizes": "512X512",      "type": "image/png"    }  ],  "background_color": "#000000"}
