@@ -5,18 +5,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Fofocalizando</title>
-    <link rel="manifest" href="manifest.json">
     <link rel="stylesheet" href="css/bootstrap.css">
     <link rel="stylesheet" href="css/fofocalizando.css">
-    <script>
-        if ('ServiceWorker' in navigator) {
-            navigator.serviceWorker.register('/sw.js').then(function() {
-                console.log('Service worker registrado com sucesso!')
-            }).catch(function() {
-                console.log('Registro do service worker não realizado!')
-            })
-        }
-    </script>
 </head>
 <body>
     <h1 class="display-4 text-center">Fofocalizando</h1>
